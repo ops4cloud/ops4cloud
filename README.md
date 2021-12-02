@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gregory O'Toole a simple devops enginer
+- 👀 I’m interested in opensources product
+- 🌱 I’m currently learning kubernetes
